@@ -1,20 +1,11 @@
-# La Accesibilidad en la Programación: Un Compromiso Ético y Necesidad Tecnológica
+# La accesibilidad en la programación: un compromiso ético y una necesidad tecnológica
 
-La accesibilidad en la programación es tanto un imperativo ético como una necesidad tecnológica. Garantiza que personas con discapacidades puedan participar plenamente en el ámbito digital y de desarrollo de software.
+La accesibilidad en la programación es tanto una responsabilidad ética como una necesidad práctica en el desarrollo de tecnología inclusiva. Asegurar que las personas con discapacidades puedan participar activamente en la creación y uso de software no solo responde a principios de equidad, sino que también mejora la calidad e innovación en los productos tecnológicos. Incluir a desarrolladores con distintas capacidades fomenta la diversidad de pensamiento y la creatividad para resolver problemas desde múltiples perspectivas.
 
-## Puntos Clave
+Uno de los principales retos en este ámbito es la falta de herramientas de desarrollo accesibles. Muchos entornos de programación, como ciertos IDEs o plataformas colaborativas, no son compatibles con lectores de pantalla o navegación por teclado, lo que dificulta la participación de personas con discapacidad visual o motora. Además, las interfaces de usuario suelen ser diseñadas pensando únicamente en personas sin discapacidad, sin considerar alternativas como comandos de voz, teclados adaptados o interacciones táctiles. Esto no solo excluye a quienes tienen una discapacidad, sino que también limita la usabilidad para personas mayores o con dificultades cognitivas.
 
-- **Inclusión y Diversidad**: Incluir a personas con discapacidades promueve la innovación y justicia social en el desarrollo tecnológico.
-- **Barreras Actuales**: Existen herramientas de desarrollo que no son accesibles, como IDEs incompatibles con lectores de pantalla o plataformas visuales sin descripciones alternativas.
-- **Diseño Inclusivo**: Interfaces accesibles benefician no solo a personas con discapacidades, sino a todos los usuarios (por ejemplo, personas mayores o con dificultades cognitivas).
-- **Formación Deficiente**: Muchos programas educativos no capacitan en accesibilidad, perpetuando el ciclo de exclusión.
-- **Tecnologías Asistivas**: Herramientas como tokenizadores de lenguaje de señas o lectores de pantalla avanzados son clave para la inclusión digital.
-- **Casos Destacados**:
-  - *Fundación GoodJob - IMPACT#aliada*: Formación digital accesible y empleabilidad.
-  - *SIMAE (UTN Santa Fe)*: Sistema de metadatos para mejorar la lectura de código por lectores de pantalla.
+Otro problema significativo es la escasa formación en accesibilidad dentro de los programas académicos de informática. Muchos desarrolladores no conocen los principios del diseño inclusivo porque nunca fueron capacitados para ello, lo que genera una cadena de exclusión. Sin esta conciencia, el software que se produce continúa reproduciendo barreras para otros usuarios. Iniciativas como el Aula Laboratorio de Innovación para Personas con Discapacidad de la UNAM o el programa IMPACT#aliada de la Fundación GoodJob han demostrado que con la formación adecuada, es posible integrar a personas con discapacidad al mundo del desarrollo tecnológico de forma efectiva.
 
-## Conclusión
+En este contexto, las tecnologías asistivas juegan un papel crucial. Herramientas como lectores de pantalla avanzados o sistemas como el SIMAE, desarrollado por la UTN en Argentina, que agrega metadatos al código para facilitar su lectura estructurada, permiten que personas con discapacidad visual puedan programar con mayor independencia. Estas tecnologías no deben ser vistas como accesorios, sino como elementos centrales en la construcción de un ecosistema digital inclusivo.
 
-Hacer la programación accesible es un acto de justicia y visión. La inclusión fortalece la tecnología, haciéndola más humana, diversa e innovadora.
-
-> "_Diseñar para todos no es solo un acto de ética, sino una inversión en un futuro donde la diversidad sea la fuerza de la tecnología._"
+En conclusión, promover la accesibilidad en la programación no es un gesto de buena voluntad, sino un paso necesario hacia una sociedad más justa y una tecnología más robusta. Diseñar para todos significa considerar la diversidad desde el inicio del proceso de desarrollo, y eso no solo mejora la experiencia para personas con discapacidad, sino que eleva el estándar general de calidad en el software. Como bien se ha dicho: *“Diseñar para todos no es solo un acto de ética, sino una inversión en un futuro donde la diversidad sea la fuerza de la tecnología.”*
