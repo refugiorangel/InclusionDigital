@@ -1,6 +1,6 @@
 # La Accesibilidad en la Programación: Un Compromiso Ético y una Necesidad Tecnológica
 
-La accesibilidad en la programación no solo representa un imperativo ético, sino también una necesidad práctica para asegurar que todas las personas, independientemente de sus capacidades físicas, puedan participar plenamente en el desarrollo tecnológico. Este documento reflexiona sobre la importancia de la accesibilidad para nuevos programadores y personas con discapacidades, respaldándose en estudios e iniciativas relevantes.
+La accesibilidad en la programación no solo representa un imperativo ético, sino también una necesidad práctica para asegurar que todas las personas, independientemente de sus capacidades físicas, puedan participar plenamente en el desarrollo tecnológico. Esta publicación reflexiona sobre la importancia de la accesibilidad para nuevos programadores y personas con discapacidades, respaldándose en estudios e iniciativas relevantes.
 
 ## La importancia de la accesibilidad en la programación
 
